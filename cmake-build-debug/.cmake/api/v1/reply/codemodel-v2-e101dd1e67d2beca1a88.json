@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Assignment_Two",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Assignment_Two::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assignment_Two-Debug-5da95f02b8bd63c43fe9.json",
+					"name" : "Assignment_Two",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_1.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_1.cpp-Debug-cf1d6041cb9f4ba83da4.json",
+					"name" : "Question_1.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_10.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_10.cpp-Debug-bff4695bed5ff7c91db2.json",
+					"name" : "Question_10.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_2.cpp-Debug-efed99d9ae31cd2eb265.json",
+					"name" : "Question_2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_3.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_3.cpp-Debug-4be1b26df6c934666514.json",
+					"name" : "Question_3.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_4.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_4.cpp-Debug-bd784d240c4c5f800772.json",
+					"name" : "Question_4.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_5.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_5.cpp-Debug-96f89d662768213f15e2.json",
+					"name" : "Question_5.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_6.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_6.cpp-Debug-d7644f7d98b6a919cec8.json",
+					"name" : "Question_6.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_7.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_7.cpp-Debug-ded8a7eb4f88c7637cbb.json",
+					"name" : "Question_7.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_8.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_8.cpp-Debug-a800af1bb7280743ea1b.json",
+					"name" : "Question_8.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_9.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_9.cpp-Debug-2f7e696e0e3b647ed318.json",
+					"name" : "Question_9.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/victorchumo/Desktop/Intro to Programming /Assignment_Two/cmake-build-debug",
+		"source" : "/Users/victorchumo/Desktop/Intro to Programming /Assignment_Two"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
